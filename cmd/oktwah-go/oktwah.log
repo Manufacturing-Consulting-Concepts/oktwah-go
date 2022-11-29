@@ -1,0 +1,194 @@
+2022/11/28 23:32:27 Starting Okta to Wazuh application.
+2022/11/28 23:32:27 Okta system log file does not exist.  Creating now.
+2022/11/28 23:32:27 Getting Okta system logs.
+2022/11/28 23:32:27 Error reading config file.
+2022/11/28 23:32:27 Error creating new request.
+2022/11/28 23:37:37 Starting Okta to Wazuh application.
+2022/11/28 23:37:37 Okta system log file exists.
+2022/11/28 23:37:37 Getting Okta system logs.
+2022/11/28 23:37:37 Error reading config file.
+2022/11/28 23:39:36 Starting Okta to Wazuh application.
+2022/11/28 23:39:36 Okta system log file exists.
+2022/11/28 23:39:36 Getting Okta system logs.
+2022/11/28 23:39:36 Error reading config file.
+2022/11/28 23:39:52 Starting Okta to Wazuh application.
+2022/11/28 23:39:52 Okta system log file exists.
+2022/11/28 23:39:52 Getting Okta system logs.
+2022/11/28 23:39:52 Error reading config file.
+2022/11/28 23:40:19 Starting Okta to Wazuh application.
+2022/11/28 23:40:19 Okta system log file exists.
+2022/11/28 23:40:19 Getting Okta system logs.
+2022/11/28 23:45:19 Getting Okta system logs.
+2022/11/28 23:50:19 Getting Okta system logs.
+2022/11/28 23:52:13 Starting Okta to Wazuh application.
+2022/11/28 23:52:13 Okta system log file exists.
+2022/11/28 23:52:13 Getting Okta system logs.
+2022/11/28 23:52:51 Starting Okta to Wazuh application.
+2022/11/28 23:52:51 Okta system log file exists.
+2022/11/28 23:52:51 Getting Okta system logs.
+2022/11/28 23:56:11 Starting Okta to Wazuh application.
+2022/11/28 23:56:11 Okta system log file exists.
+2022/11/28 23:56:11 Getting Okta system logs.
+2022/11/29 00:03:17 Starting Okta to Wazuh application.
+2022/11/29 00:03:17 Okta system log file exists.
+2022/11/29 00:03:17 Getting Okta system logs.
+2022/11/29 00:08:18 Getting Okta system logs.
+2022/11/29 00:14:23 Starting Okta to Wazuh application.
+2022/11/29 00:14:23 Okta system log file exists.
+2022/11/29 00:14:23 Getting Okta system logs.
+2022/11/29 00:19:23 Getting Okta system logs.
+2022/11/29 00:23:53 Starting Okta to Wazuh application.
+2022/11/29 00:23:53 Okta system log file exists.
+2022/11/29 00:23:53 Getting Okta system logs.
+2022/11/29 00:28:54 Getting Okta system logs.
+2022/11/29 00:30:23 Starting Okta to Wazuh application.
+2022/11/29 00:30:23 Okta system log file exists.
+2022/11/29 00:30:23 Getting Okta system logs.
+2022/11/29 00:30:49 Starting Okta to Wazuh application.
+2022/11/29 00:30:49 Okta system log file exists.
+2022/11/29 00:30:49 Getting Okta system logs.
+2022/11/29 00:31:12 Starting Okta to Wazuh application.
+2022/11/29 00:31:12 Okta system log file exists.
+2022/11/29 00:31:12 Getting Okta system logs.
+2022/11/29 00:36:29 Starting Okta to Wazuh application.
+2022/11/29 00:36:29 Okta system log file exists.
+2022/11/29 00:36:29 Getting Okta system logs.
+2022/11/29 00:39:50 Starting Okta to Wazuh application.
+2022/11/29 00:39:50 Okta system log file exists.
+2022/11/29 00:39:50 Getting Okta system logs.
+2022/11/29 00:40:19 Starting Okta to Wazuh application.
+2022/11/29 00:40:19 Okta system log file exists.
+2022/11/29 00:40:19 Getting Okta system logs.
+2022/11/29 00:41:21 Starting Okta to Wazuh application.
+2022/11/29 00:41:21 Okta system log file exists.
+2022/11/29 00:41:21 Getting Okta system logs.
+2022/11/29 00:49:17 Starting Okta to Wazuh application.
+2022/11/29 00:49:17 Okta system log file exists.
+2022/11/29 00:49:17 Getting Okta system logs.
+2022/11/29 00:51:44 Starting Okta to Wazuh application.
+2022/11/29 00:51:44 Okta system log file exists.
+2022/11/29 00:51:44 Getting Okta system logs.
+2022/11/29 00:53:39 Starting Okta to Wazuh application.
+2022/11/29 00:53:39 Okta system log file exists.
+2022/11/29 00:53:39 Getting Okta system logs.
+2022/11/29 00:54:33 Starting Okta to Wazuh application.
+2022/11/29 00:54:33 Okta system log file exists.
+2022/11/29 00:54:33 Getting Okta system logs.
+2022/11/29 00:59:33 Getting Okta system logs.
+2022/11/29 01:04:34 Getting Okta system logs.
+2022/11/29 01:07:49 Starting Okta to Wazuh application.
+2022/11/29 01:07:49 Okta system log file exists.
+2022/11/29 01:07:49 Getting Okta system logs.
+2022/11/29 01:12:50 Getting Okta system logs.
+2022/11/29 01:13:40 Starting Okta to Wazuh application.
+2022/11/29 01:13:40 Okta system log file exists.
+2022/11/29 01:13:40 Getting Okta system logs.
+2022/11/29 01:16:28 Starting Okta to Wazuh application.
+2022/11/29 01:16:28 Okta system log file exists.
+2022/11/29 01:16:28 Getting Okta system logs.
+2022/11/29 02:38:38 Starting Okta to Wazuh application.
+2022/11/29 02:38:38 Okta system log file exists.
+2022/11/29 02:38:38 Getting Okta system logs.
+2022/11/29 02:43:38 Getting Okta system logs.
+2022/11/29 02:48:39 Getting Okta system logs.
+2022/11/29 02:53:40 Getting Okta system logs.
+2022/11/29 02:58:41 Getting Okta system logs.
+2022/11/29 03:23:45 Starting Okta to Wazuh application.
+2022/11/29 03:23:45 Okta system log file exists.
+2022/11/29 03:23:45 Getting Okta system logs.
+2022/11/29 03:25:04 Starting Okta to Wazuh application.
+2022/11/29 03:25:04 Okta system log file exists.
+2022/11/29 03:25:04 Getting Okta system logs.
+2022/11/29 03:30:05 Getting Okta system logs.
+2022/11/29 03:30:06 Error unmarshalling response body.
+2022/11/29 03:31:38 Starting Okta to Wazuh application.
+2022/11/29 03:31:38 Okta system log file exists.
+2022/11/29 03:31:38 Getting Okta system logs.
+2022/11/29 03:36:39 Getting Okta system logs.
+2022/11/29 03:36:39 Error unmarshalling response body.
+2022/11/29 18:37:20 Starting Okta to Wazuh application.
+2022/11/29 18:37:20 Okta system log file exists.
+2022/11/29 18:37:20 Getting Okta system logs.
+2022/11/29 18:38:29 Starting Okta to Wazuh application.
+2022/11/29 18:38:29 Okta system log file exists.
+2022/11/29 18:38:29 Getting Okta system logs.
+2022/11/29 18:39:07 Starting Okta to Wazuh application.
+2022/11/29 18:39:07 Okta system log file exists.
+2022/11/29 18:39:07 Getting Okta system logs.
+2022/11/29 18:39:08 Error unmarshalling response body.
+2022/11/29 18:40:41 Starting Okta to Wazuh application.
+2022/11/29 18:40:41 Okta system log file exists.
+2022/11/29 18:40:41 Getting Okta system logs.
+2022/11/29 18:40:42 Error unmarshalling response body.
+2022/11/29 18:41:53 Starting Okta to Wazuh application.
+2022/11/29 18:41:53 Okta system log file exists.
+2022/11/29 18:41:53 Getting Okta system logs.
+2022/11/29 18:41:54 Error unmarshalling response body.
+2022/11/29 18:42:43 Starting Okta to Wazuh application.
+2022/11/29 18:42:43 Okta system log file exists.
+2022/11/29 18:42:43 Getting Okta system logs.
+2022/11/29 18:42:44 Error unmarshalling response body.
+2022/11/29 18:44:28 Starting Okta to Wazuh application.
+2022/11/29 18:44:28 Okta system log file exists.
+2022/11/29 18:44:28 Getting Okta system logs.
+2022/11/29 18:44:58 Starting Okta to Wazuh application.
+2022/11/29 18:44:58 Okta system log file exists.
+2022/11/29 18:44:58 Getting Okta system logs.
+2022/11/29 18:45:07 Starting Okta to Wazuh application.
+2022/11/29 18:45:07 Okta system log file exists.
+2022/11/29 18:45:07 Getting Okta system logs.
+2022/11/29 18:47:21 Starting Okta to Wazuh application.
+2022/11/29 18:47:21 Okta system log file exists.
+2022/11/29 18:47:21 Getting Okta system logs.
+2022/11/29 18:47:21 Error unmarshalling response body.
+2022/11/29 18:55:31 Starting Okta to Wazuh application.
+2022/11/29 18:55:31 Okta system log file exists.
+2022/11/29 18:55:31 Getting Okta system logs.
+2022/11/29 18:56:43 Starting Okta to Wazuh application.
+2022/11/29 18:56:43 Okta system log file exists.
+2022/11/29 18:56:43 Getting Okta system logs.
+2022/11/29 18:56:43 Error unmarshalling response body.
+2022/11/29 18:59:38 Starting Okta to Wazuh application.
+2022/11/29 18:59:38 Okta system log file exists.
+2022/11/29 18:59:38 Getting Okta system logs.
+2022/11/29 19:04:39 Getting Okta system logs.
+2022/11/29 19:09:40 Getting Okta system logs.
+2022/11/29 19:14:40 Getting Okta system logs.
+2022/11/29 19:19:41 Getting Okta system logs.
+2022/11/29 19:24:42 Getting Okta system logs.
+2022/11/29 19:29:43 Getting Okta system logs.
+2022/11/29 19:34:43 Getting Okta system logs.
+2022/11/29 19:39:44 Getting Okta system logs.
+2022/11/29 19:44:45 Getting Okta system logs.
+2022/11/29 19:49:46 Getting Okta system logs.
+2022/11/29 19:54:46 Getting Okta system logs.
+2022/11/29 19:59:47 Getting Okta system logs.
+2022/11/29 20:04:48 Getting Okta system logs.
+2022/11/29 20:09:48 Getting Okta system logs.
+2022/11/29 20:14:49 Getting Okta system logs.
+2022/11/29 20:19:50 Getting Okta system logs.
+2022/11/29 20:24:50 Getting Okta system logs.
+2022/11/29 20:29:51 Getting Okta system logs.
+2022/11/29 20:34:52 Getting Okta system logs.
+2022/11/29 20:39:52 Getting Okta system logs.
+2022/11/29 20:44:53 Getting Okta system logs.
+2022/11/29 20:49:54 Getting Okta system logs.
+2022/11/29 20:54:55 Getting Okta system logs.
+2022/11/29 20:59:56 Getting Okta system logs.
+2022/11/29 21:04:56 Getting Okta system logs.
+2022/11/29 21:09:57 Getting Okta system logs.
+2022/11/29 21:14:58 Getting Okta system logs.
+2022/11/29 21:19:58 Getting Okta system logs.
+2022/11/29 21:24:59 Getting Okta system logs.
+2022/11/29 21:30:00 Getting Okta system logs.
+2022/11/29 21:35:01 Getting Okta system logs.
+2022/11/29 21:40:01 Getting Okta system logs.
+2022/11/29 21:45:03 Getting Okta system logs.
+2022/11/29 21:50:04 Getting Okta system logs.
+2022/11/29 21:55:05 Getting Okta system logs.
+2022/11/29 22:00:06 Getting Okta system logs.
+2022/11/29 22:05:07 Getting Okta system logs.
+2022/11/29 22:10:08 Getting Okta system logs.
+2022/11/29 22:15:08 Getting Okta system logs.
+2022/11/29 22:20:09 Getting Okta system logs.
+2022/11/29 22:25:10 Getting Okta system logs.
