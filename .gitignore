@@ -1,0 +1,5 @@
+# Config Files
+
+cmd/oktwah-go/.env
+
+cmd/oktwah-go/*.log
